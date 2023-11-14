@@ -1,13 +1,5 @@
 # Customer Retention
 
-## 🔴 Detailed Session on EDA:
-
-[![Alt text](https://user-images.githubusercontent.com/34673684/117579611-49cd5880-b126-11eb-9e2b-ef865c090808.png)](https://www.youtube.com/watch?v=baL7OrGWlxs)
-
-## 🔴 One of my previous Sessions on EDA, Model Building & Model Deployment: 
-
-[![Alt text](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/CC.JPG)](https://www.youtube.com/watch?v=GVECbcKUio4)
-
 ## 🔴 What is Customer Churning ?
 
 ![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG)
@@ -78,5 +70,5 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
-![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco6.JPG)
+![Customer Retention](https://raw.githubusercontent.com/piyushluitel-07/Customer_churn_Predictor_ML/main/images/Telco6.JPG)
 # Customer_churn_Predictor_ML
